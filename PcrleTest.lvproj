@@ -14,13 +14,13 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="subvi" Type="Folder">
-			<Item Name="random.vi" Type="VI" URL="../random.vi"/>
-			<Item Name="read_compare.vi" Type="VI" URL="../read_compare.vi"/>
-			<Item Name="TCPConnectSendRead.vi" Type="VI" URL="../TCPConnectSendRead.vi"/>
-			<Item Name="test_program_vi.vi" Type="VI" URL="../test_program_vi.vi"/>
-			<Item Name="统一指令集.ctl" Type="VI" URL="../统一指令集.ctl"/>
-			<Item Name="统一指令集.vi" Type="VI" URL="../统一指令集.vi"/>
-			<Item Name="自适应屏幕分辨率.vi" Type="VI" URL="../自适应屏幕分辨率.vi"/>
+			<Item Name="random.vi" Type="VI" URL="../sub/random.vi"/>
+			<Item Name="read_compare.vi" Type="VI" URL="../sub/read_compare.vi"/>
+			<Item Name="TCPConnectSendRead.vi" Type="VI" URL="../sub/TCPConnectSendRead.vi"/>
+			<Item Name="test_program_vi.vi" Type="VI" URL="../sub/test_program_vi.vi"/>
+			<Item Name="统一指令集.ctl" Type="VI" URL="../sub/统一指令集.ctl"/>
+			<Item Name="统一指令集.vi" Type="VI" URL="../sub/统一指令集.vi"/>
+			<Item Name="自适应屏幕分辨率.vi" Type="VI" URL="../sub/自适应屏幕分辨率.vi"/>
 		</Item>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="依赖关系" Type="Dependencies">
